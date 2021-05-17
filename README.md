@@ -2,6 +2,7 @@
 
 <ol>
   <li>What components make up this application?</li>
+  
 ## main.js
 ### Responsible for rendering all HTML to DOM
 
